@@ -14,5 +14,6 @@ Problem 7 completed on 23 Mar. 2014 in Java
 Problem 8 completed on 5 Jan. 2018 in Python  
 Problem 9 completed on 5 Jan. 2018 in Python  
 Problem 10 completed on 5 Jan. 2018 in Python  
+Problem 11 completed on 28 Apr. 2018 in Python  
 Problem 13 completed on 17 Nov. 2015 in Java  
 Problem 14 completed on 19 Nov. 2015 in Java  
