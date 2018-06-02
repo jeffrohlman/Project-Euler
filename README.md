@@ -18,3 +18,4 @@ Problem 11 completed on 28 Apr. 2018 in Python
 Problem 13 completed on 17 Nov. 2015 in Java  
 Problem 14 completed on 19 Nov. 2015 in Java  
 Problem 15 completed on 2 Jun. 2018 in Python  
+Problem 16 completed on 2 Jun. 2018 in Python  
